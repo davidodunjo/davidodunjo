@@ -1,16 +1,16 @@
-## Hi there 👋
+# David Odunjo
 
-<!--
-**davidodunjo/davidodunjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer at [Marklite](https://marklite.com) — logistics software built into Microsoft Dynamics 365.
+Azure/Terraform, TypeScript, and full-stack web dev.
 
-Here are some ideas to get you started:
+## Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[shadcdn](https://github.com/davidodunjo/shadcdn)** — CDN for pre-generated shadcn/ui components.
+Cloudflare Pages + Hono + Bun.
+
+**[tabememo](https://github.com/davidodunjo/tabememo)** — Cross-platform meal tracker.
+Capacitor/Electron, TypeScript.
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/david-odunjo-29a695289/)
