@@ -1,6 +1,6 @@
 # David Odunjo
 
-Software Developer at [Marklite](https://marklite.com) — logistics software built into Microsoft Dynamics 365.
+Software Developer at [Marklite](https://marklite.com); logistics software built into Microsoft Dynamics 365.
 Azure/Terraform, TypeScript, and full-stack web dev.
 
 ## Building
