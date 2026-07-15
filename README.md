@@ -1,17 +1,14 @@
 # David Odunjo
 
-Software Developer at [Marklite](https://marklite.com); logistics software built into Microsoft Dynamics 365.
-Azure/Terraform, TypeScript, and full-stack web dev.
+Software Developer at [Marklite](https://marklite.com); enterprise logistics suite built into Microsoft Dynamics 365.
+Azure/Terraform lover, TypeScript aficionado, and full-stack dev.
 
 ## Building
-**[shadcdn](https://github.com/davidodunjo/shadcdn)**: CDN for pre-generated shadcn/ui components.
-Cloudflare Pages + Hono + Bun.
+**[open-studio](https://github.com/davidodunjo/open-studio)**: Open-source video editor, inspired by Palmier Pro and Stanley Studio.
 
-**[tabememo](https://github.com/davidodunjo/tabememo)**: Cross-platform meal tracker.
-Capacitor/Electron, TypeScript.
+**[markline](https://github.com/davidodunjo/markline)**: Elegant markdown rendering for Android.
 
-**[rendur](https://github.com/davidodunjo/rendur)**: Elegant document rendering, everywhere.
-Cross-platform, lightweight.
+**[kumoku](https://github.com/davidodunjo/kumoku)**: Ichimoku-based currency trading system.
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/david-odunjo-29a695289/)
