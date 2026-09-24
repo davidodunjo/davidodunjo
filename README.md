@@ -4,4 +4,4 @@ Software Developer at [Marklite](https://marklite.com); enterprise logistics sui
 Azure/Terraform lover, TypeScript aficionado, and full-stack dev.
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/david-odunjo-29a695289/)
+[LinkedIn](https://www.linkedin.com/in/davidodunjo)
