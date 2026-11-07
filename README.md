@@ -1,5 +1,3 @@
-# David Odunjo
-
 Software Developer at [Marklite](https://marklite.com).
 
 ## Links
